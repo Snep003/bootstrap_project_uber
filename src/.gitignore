@@ -9,6 +9,8 @@
 # production
 /build
 
+#prosto_proverka_potom_udalit
+
 # misc
 .DS_Store
 .env.local
